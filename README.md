@@ -6,14 +6,17 @@ _Description: What does this project do and who does it serve?_
 
 _How do we interview / release algorithmic artists and musicians?_ 
 
-1. _What dependencies does it have (where are they expressed) and how do I install them?_
-2. _How can I see the project working before I change anything?_
 
-## Testing
+## Locations:
 
-_How do I run the project's automated tests?_
+1. _At the couch in the office, with the black backdrop_
+2. _In my 71' vw bus: http://youtu.be/K_Pnhjjukmo_
 
-### Unit Tests
+## Youtube Channel / Website
+
+_Live demo here_
+
+### Next Steps
 
 1. `rake spec`
 
