@@ -22,6 +22,19 @@ _team_
 _Promotional Campaign_
 _questions_
 _how to get artists_
+_artists to be showcased_
+
+## artists to be showcased 
+> - David Frost
+> - Maria Okonomu
+> - Love Foundation artists
+> - Alg artists:
+> - David Cope
+> - David Kant
+> - David Dunn
+> - Zach Watkins
+> - Larry Polansky
+> - David Evan Jones
 
 _Qs for david:_
 > - How is making algortithmic art different from your music?
@@ -40,3 +53,6 @@ _Qs for david:_
 - _irc channel_
 - _"Please open github issues"_
 
+
+> -other thoughts:
+- showcase interactive video option for the course ( building online quizes throughout the material )
