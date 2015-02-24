@@ -51,15 +51,5 @@ _Qs for david:_
 > - are these alg art pieces the bi product of essentially the same code, with different parameters?
 > - how/will/can you share your algorithms?
 
-## Contributing changes
-
-- _Internal git workflow_
-- _Pull request guidelines_
-- _Tracker project_
-- _Google group_
-- _irc channel_
-- _"Please open github issues"_
-
-
 > -other thoughts:
 - showcase interactive video option for the course ( building online quizes throughout the material )
